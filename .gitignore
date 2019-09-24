@@ -1,0 +1,7 @@
+.checkstyle
+.classpath
+.project
+.settings/
+.sts4-cache/
+target/
+src/main/resources/hikari.properties
